@@ -7,9 +7,7 @@ public class Persona {
     private String estadoCivil;
 
     public Persona() {
-    }
-    
-    
+    }    
 
     public Persona(String nombre, int edad, String genero, String estadoCivil) {
         this.nombre = nombre;
